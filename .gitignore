@@ -1,3 +1,8 @@
+# remember to ignore the env.py file if it has the real secret keys (not in this repo):
+# env.py
+
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

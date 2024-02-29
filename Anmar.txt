@@ -1,0 +1,10 @@
+Dear students, here is quick reminding:
+
+Create the virtual environment (let's name it “env” by convention) 
+py -m venv env
+we used py, python, python3, py3
+Activate the virtual environment
+env\Scripts\activate
+
+We need to import (install) pymongo (Make sure to install it inside the virtual environment)
+(env) pip install pymongo
